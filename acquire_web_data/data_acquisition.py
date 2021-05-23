@@ -1,4 +1,4 @@
-# Data acquisition 2
+# Data acquisition
 
 import requests
 from bs4 import BeautifulSoup
