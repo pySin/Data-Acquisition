@@ -17,3 +17,4 @@ Python(mysql.connector, requests, bs4 and re libraries)
 2. Pick an HTML tag to look for in the web-scraped object and assign it to the 'tag' variable in the 'call_functions()' function.
 3. Create list of lists. Each inner list should contain two values: the regular expression('re.') pattern and a name for the pattern. These names will become MySQL column names. This is how the list of lists should look like: patterns = [['£\d', '£d'], ['£\d\d', '£dd'], ['£\d\d\d', '£ddd'],['£', '£']]
 4. Pick a database name and a table name from the MySQL server to insert the pattern data acquired. Insert those instead of 'database_1' and 'table_2' in the following row: `transfer_o = transfer('database_1', 'table_2', data_dict)`.
+5. Use your hostname, username and password to connect python with MySQL using mysql.connector`conn = mysql.connector.connect(user='root', host='localhost', password='dance')`
