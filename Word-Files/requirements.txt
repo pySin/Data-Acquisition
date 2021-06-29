@@ -1,0 +1,1 @@
+# Requirements for getting data from Word files.
