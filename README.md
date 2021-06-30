@@ -6,6 +6,7 @@ Acquire data from different sources and store it in different database platforms
 
 ## Tasks
 1. Scrape data from web-pages, find patterns in the data and store it in MySQL.
+2. Combine the text from the .docx files in a folder and put them in 1 .docx document.
 
 ## Technologies used
 MySQL Workbench
