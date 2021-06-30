@@ -11,7 +11,7 @@ Acquire data from different sources and store it in different database platforms
 ## Technologies used
 MySQL Workbench
 
-Python(mysql.connector, requests, bs4 and re libraries)
+Python(mysql.connector, requests, bs4, docx and re libraries)
 
 ## Setup
 ### Task 1
