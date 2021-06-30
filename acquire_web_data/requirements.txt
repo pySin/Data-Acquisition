@@ -1,1 +1,10 @@
-# Recuirements
+#
+# Requirements
+#
+
+Python 3.7.4
+  - Library dependencies
+    + re
+    + os
+    + docx
+    + unittest
